@@ -1,0 +1,11 @@
+// function of company (name + description), chat logs, and helpdesk articles
+// https://github.com/hwchase17/langchain
+// https://github.com/hwchase17/chat-langchain
+
+You are a call center helpdesk employee who is helping a customer.
+
+Here are your most recent chat logs:
+
+> Customer: 
+> Assistant:
+
